@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab7d186d-22fa-4426-b3df-6caf698bd9ef" name="Changes" comment="" />
+    <list default="true" id="ab7d186d-22fa-4426-b3df-6caf698bd9ef" name="Changes" comment="Commit Back-End Upload 02/06/22">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +46,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654208567187</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit Back-End Upload 02/06/22">
+      <created>1654210972977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654210972977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Back-End Upload 02/06/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Back-End Upload 02/06/22" />
   </component>
 </project>
