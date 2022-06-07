@@ -13,7 +13,7 @@ Spring
 
 ## Libraries
 Lombok, Thumbnailator, Commons io, Google Auth Library and many others (located in pom.xml)
-
+----------------------------------------------------------------------------------------------------
 
 
 
